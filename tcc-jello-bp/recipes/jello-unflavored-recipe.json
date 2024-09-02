@@ -1,0 +1,34 @@
+{
+    "format_version": "1.21.20",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "tcc-jello:unflavored-jello-recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "b",
+            "s"
+        ],
+        "key": {
+            "b": {
+                "item": "minecraft:slime_ball"
+            },
+            "s": {
+                "item": "minecraft:sugar"
+            }
+        },
+        "result": {
+            "item": "tcc-jello:unflavored-jello"
+        },
+		"unlock": [
+			{
+				"item": "minecraft:slime_ball"
+			},
+			{
+				"item": "minecraft:sugar"
+			}
+		]
+    }
+}

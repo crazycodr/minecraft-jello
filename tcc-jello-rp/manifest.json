@@ -1,0 +1,36 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"thecrazycodr"
+		],
+		"product_type": "addon"
+	},
+	"header": {
+		"name": "TCC Jello",
+		"description": "This addon adds edible jello items made from sugar and slime and fruits.",
+		"min_engine_version": [
+			1,
+			20,
+			60
+		],
+		"uuid": "3828e6b2-1416-4e94-a23b-6ec1734c3707",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"description": "TCC Jello",
+			"type": "resources",
+			"uuid": "469fc328-6975-49a7-a63f-208264236fad",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

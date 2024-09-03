@@ -2,14 +2,14 @@
     "resource_pack_name": "tcc-jello",
     "texture_name": "atlas.items",
     "texture_data": {
+        "jello-sweet-berries": {
+            "textures": "textures/items/jello-sweet-berries"
+        },
+        "jello-pumpkin": {
+            "textures": "textures/items/jello-pumpkin"
+        },
         "jello-apple": {
             "textures": "textures/items/jello-apple"
-        },
-        "jello-carrot": {
-            "textures": "textures/items/jello-carrot"
-        },
-        "jello-honey": {
-            "textures": "textures/items/jello-honey"
         },
         "jello-kelp": {
             "textures": "textures/items/jello-kelp"

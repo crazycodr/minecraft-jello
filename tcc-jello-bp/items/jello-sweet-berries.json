@@ -2,7 +2,7 @@
     "format_version": "1.21.10",
     "minecraft:item": {
         "description": {
-            "identifier": "tcc-jello:carrot-jello",
+            "identifier": "tcc-jello:sweet-berries-jello",
             "menu_category": {
                 "category": "nature",
                 "group": "itemGroup.name.rawFood"
@@ -10,13 +10,13 @@
         },
         "components": {
             "minecraft:max_stack_size": 64,
-            "minecraft:icon": "jello-carrot",
+            "minecraft:icon": "jello-sweet-berries",
             "minecraft:display_name": {
-                "value": "Carrot jello"
+                "value": "Sweet berry jello"
             },
             "minecraft:food": {
-                "nutrition": 1,
-                "saturation_modifier": 3
+                "nutrition": 3,
+                "saturation_modifier": 2
             },
             "minecraft:use_animation": "eat",
             "minecraft:use_modifiers": {

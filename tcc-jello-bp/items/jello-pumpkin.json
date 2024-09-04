@@ -15,8 +15,8 @@
                 "value": "Pumpkin jello"
             },
             "minecraft:food": {
-                "nutrition": 1,
-                "saturation_modifier": 3
+                "nutrition": 2,
+                "saturation_modifier": 2
             },
             "minecraft:use_animation": "eat",
             "minecraft:use_modifiers": {

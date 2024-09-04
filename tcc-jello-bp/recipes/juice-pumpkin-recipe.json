@@ -2,7 +2,7 @@
     "format_version": "1.21.20",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "tcc-jello:sweet-berries-jello-recipe"
+            "identifier": "tcc-jello:pumpkin-juice-recipe"
         },
         "tags": [
             "crafting_table"
@@ -14,28 +14,28 @@
         ],
         "key": {
             "b": {
-                "item": "minecraft:slime_ball"
+                "item": "tcc-jello:pumpkin-jello"
             },
             "s": {
-                "item": "minecraft:sugar"
+                "item": "minecraft:honeycomb"
             },
             "a": {
-                "item": "minecraft:sweet_berries"
+                "item": "minecraft:glass_bottle"
             }
         },
         "result": {
-            "item": "tcc-jello:sweet-berries-jello",
-            "count": 4
+            "item": "tcc-jello:pumpkin-juice",
+            "count": 1
         },
 		"unlock": [
 			{
-				"item": "minecraft:slime_ball"
+				"item": "tcc-jello:pumpkin-jello"
 			},
 			{
-				"item": "minecraft:sugar"
+				"item": "minecraft:honeycomb"
 			},
 			{
-				"item": "minecraft:sweet_berries"
+				"item": "minecraft:glass_bottle"
 			}
 		]
     }

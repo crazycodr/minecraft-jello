@@ -15,7 +15,7 @@
                 "value": "Sweet berry jello"
             },
             "minecraft:food": {
-                "nutrition": 3,
+                "nutrition": 2,
                 "saturation_modifier": 2
             },
             "minecraft:use_animation": "eat",

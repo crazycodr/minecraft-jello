@@ -8,7 +8,7 @@
             "crafting_table"
         ],
         "pattern": [
-            "b",
+            "bb",
             "s",
             "a"
         ],
@@ -24,7 +24,8 @@
             }
         },
         "result": {
-            "item": "tcc-jello:pumpkin-jello"
+            "item": "tcc-jello:pumpkin-jello",
+            "count": 4
         },
 		"unlock": [
 			{

@@ -2,23 +2,41 @@
     "resource_pack_name": "tcc-jello",
     "texture_name": "atlas.items",
     "texture_data": {
-        "jello-sweet-berries": {
-            "textures": "textures/items/jello-sweet-berries"
-        },
-        "jello-pumpkin": {
-            "textures": "textures/items/jello-pumpkin"
-        },
         "jello-apple": {
             "textures": "textures/items/jello-apple"
         },
-        "jello-kelp": {
-            "textures": "textures/items/jello-kelp"
+        "jello-cactus": {
+            "textures": "textures/items/jello-cactus"
+        },
+        "jello-chorus": {
+            "textures": "textures/items/jello-chorus"
         },
         "jello-melon": {
             "textures": "textures/items/jello-melon"
         },
+        "jello-pumpkin": {
+            "textures": "textures/items/jello-pumpkin"
+        },
+        "jello-sweet-berries": {
+            "textures": "textures/items/jello-sweet-berries"
+        },
         "jello-unflavored": {
             "textures": "textures/items/jello-unflavored"
+        },
+        "juice-apple": {
+            "textures": "textures/items/juice-apple"
+        },
+        "juice-cactus": {
+            "textures": "textures/items/juice-cactus"
+        },
+        "juice-chorus": {
+            "textures": "textures/items/juice-chorus"
+        },
+        "juice-pumpkin": {
+            "textures": "textures/items/juice-pumpkin"
+        },
+        "juice-sweet-berries": {
+            "textures": "textures/items/juice-sweet-berries"
         }
     }
 }

@@ -9,7 +9,7 @@
 	"dependencies": [
 		{
 			"uuid": "3828e6b2-1416-4e94-a23b-6ec1734c3707",
-			"version": [1,0,0]
+			"version": [1,2,1]
 		}
 	],
 	"header": {
@@ -24,7 +24,7 @@
 		"version": [
 			1,
 			2,
-			0
+			1
 		]
 	},
 	"modules": [
@@ -35,7 +35,7 @@
 			"version": [
 				1,
 				2,
-				0
+				1
 			]
 		}
 	]

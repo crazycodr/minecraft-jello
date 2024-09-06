@@ -29,6 +29,9 @@
         "juice-cactus": {
             "textures": "textures/items/juice-cactus"
         },
+        "juice-melon": {
+            "textures": "textures/items/juice-melon"
+        },
         "juice-chorus": {
             "textures": "textures/items/juice-chorus"
         },
